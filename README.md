@@ -19,7 +19,7 @@ This is a simple Rock Paper Scissors game built using Python and the Tkinter lib
 ## Installation
 1. Clone this repository or download the script.
 ```sh
-git clone <repository-url>
+git clone https://github.com/RohitBhendarkar/Rock-Paper-Scissor
 ```
 2. Navigate to the project directory.
 ```sh
@@ -39,5 +39,6 @@ python game.py
 6. Click "New Match" to restart the game.
 
 ## Screenshot
-https://github.com/user-attachments/assets/e1b8ad9e-ae20-4abb-aea4-95a31b17a993
+
+![Screenshot 2025-02-17 205022](https://github.com/user-attachments/assets/ee76861e-b25d-496b-a926-e9f39debd9f2)
 
