@@ -23,11 +23,11 @@ git clone https://github.com/RohitBhendarkar/Rock-Paper-Scissor
 ```
 2. Navigate to the project directory.
 ```sh
-cd rock-paper-scissors-tkinter
+cd rock-paper-scissor
 ```
 3. Run the script.
 ```sh
-python game.py
+python rock_paper_scissor_main.py
 ```
 
 ## How to Play
@@ -41,4 +41,11 @@ python game.py
 ## Screenshot
 
 ![Screenshot 2025-02-17 205022](https://github.com/user-attachments/assets/ee76861e-b25d-496b-a926-e9f39debd9f2)
+
+## Contributing
+Feel free to fork the repository and submit pull requests to contribute to this project.
+
+## Contact
+For any queries or suggestions, reach out to me on [GitHub](https://github.com/RohitBhendarkar).
+
 
